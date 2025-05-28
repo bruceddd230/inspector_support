@@ -16,7 +16,7 @@ If you're experiencing any issues or have questions, please contact us at:
 ## 📘 User Guide
 
 ### Step 1: Connect OBD2 Device  
-Plug a Bluetooth OBD2 adapter into your car’s OBD-II port (most cars built after 1996 have this). The app will automatically detect and connect.
+Plug a Bluetooth OBD2 adapter into your car’s OBD-II port (most cars built after 1996 have this). Connecting the device to the app.
 
 ### Step 2: Choose a Mode  
 - **AI Inspection Mode**: Get a simple, clear report for used car checks.  
